@@ -1,0 +1,9 @@
+img_width: 128
+img_height: 128
+batch_size: 8
+epochs: 1
+split_size: 0.8
+img_channels: 3
+prevCheckpoint: None
+root: ./
+full_training: False
