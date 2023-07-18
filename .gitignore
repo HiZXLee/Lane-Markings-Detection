@@ -1,0 +1,3 @@
+data/*
+!data/note.md
+__pycache__
