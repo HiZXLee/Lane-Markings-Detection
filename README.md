@@ -1,4 +1,5 @@
 # Lane-Markings-Detection
+![Lane Markings Detection](assets/example.png "Lane Markings Detection")
 
 ## Note
 
